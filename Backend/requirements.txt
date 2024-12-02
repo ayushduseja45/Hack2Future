@@ -1,0 +1,10 @@
+Flask
+torch==1.13.0+cu121 -f https://download.pytorch.org/whl/cu121/torch_stable.html
+torchvision==0.14.0+cu121
+opencv-python
+retinaface
+basicsr==1.4.2
+facexlib
+ninja
+ffmpeg
+dlib
